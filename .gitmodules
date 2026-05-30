@@ -4,3 +4,6 @@
 [submodule "backoffice"]
 	path = backoffice
 	url = https://github.com/academia-dev-impl/academia-pay-backoffice.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/academia-dev-impl/academia-pay-gateway.git
