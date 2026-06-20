@@ -7,3 +7,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/academia-dev-impl/academia-pay-gateway.git
+[submodule "poc"]
+	path = poc
+	url = https://github.com/academia-dev-impl/poc.git
